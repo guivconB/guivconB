@@ -1,7 +1,9 @@
 # Olá, mundo! Eu sou o Guilherme Vieira 👋
 
 Sou um **Desenvolvedor Full Stack** em formação, com uma base sólida em Front-end (Web e Mobile) e atualmente aprofundando meus estudos no desenvolvimento Back-end. Meu objetivo é construir soluções tecnológicas completas, eficientes e de ponta a ponta.
+Estudante de Ciência da Computação  (6º Período) no Centro Universitário Maurício de Nassau , em Aracaju/SE.
 
+Desejo transformar ideias em soluções funcionais, aplicando sempre o foco em resultados e o trabalho em equipe  para entregar o melhor valor em cada projeto.
 ---
 
 ### 🎯 O que eu faço e estudo?
@@ -41,7 +43,22 @@ Sou um **Desenvolvedor Full Stack** em formação, com uma base sólida em Front
 ---
 
 ### 📊 Minhas Estatísticas
-
+<p align="left">
+    <a href="https://github.com/guivconB?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/guivconB?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/guivconB?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/guivconB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 <p align="left">
   <a href="https://github.com/guivconB">
     <img src="https://github-readme-stats.vercel.app/api?username=guivconB&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" />
